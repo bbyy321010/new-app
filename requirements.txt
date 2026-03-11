@@ -1,3 +1,10 @@
+# Main Framework
 streamlit
-mindee
+openai
+
+# Data & Spreadsheet Connection
+pandas
 st-gsheets-connection
+
+# Utilities
+python-dotenv
